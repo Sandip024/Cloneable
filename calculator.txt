@@ -2,7 +2,7 @@ add(a, b)
 pass
 
 sub(a, b)
-pass
+return a-b
   
 mul(a, b)
 return a*b     
