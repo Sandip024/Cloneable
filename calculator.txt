@@ -5,7 +5,7 @@ sub(a, b)
 pass
   
 mul(a, b)
-pass     
+return a*b     
 
 div(a, b)
 pass
