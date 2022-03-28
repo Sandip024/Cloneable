@@ -1,8 +1,8 @@
 add(a, b)
-pass
+return a+b
 
 sub(a, b)
-pass
+return a-b
   
 mul(a, b)
 pass     
