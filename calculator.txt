@@ -8,5 +8,5 @@ mul(a, b)
 return a*b     
 
 div(a, b)
-pass
+return a/b
 
